@@ -1,3 +1,5 @@
+#Alunos: Victor Dias Noleto e Vinícius Rapôso Andrade
+
 # Servidor de Cálculo Distribuído — Java Sockets + Multithreading
 
 Projeto acadêmico que implementa um servidor de cálculo distribuído utilizando
