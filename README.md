@@ -1,4 +1,4 @@
-#Alunos: Victor Dias Noleto e Vinícius Rapôso Andrade
+# Alunos: Victor Dias Noleto e Vinícius Rapôso Andrade
 
 # Servidor de Cálculo Distribuído — Java Sockets + Multithreading
 
